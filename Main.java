@@ -42,6 +42,7 @@ public class Main {
         drawHorizontalLine(5, 14, 8, red);
         drawHorizontalLine(4, 15, 9, red);
         fillRect(4,10,12,3, yellow);
+        drawHorizontalLine(6, 13, 10, red);
         drawHorizontalLine(6, 8, 13, blue);
         drawHorizontalLine(11, 13, 13, blue);
         drawHorizontalLine(12, 14, 14, brown);
